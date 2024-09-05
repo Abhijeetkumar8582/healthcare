@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>MEA</title>
+      <title>PCI</title>
     </Head>
       <div>
         <h4></h4>
