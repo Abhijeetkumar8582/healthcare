@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>PCI</title>
+      <title>HealthCare</title>
     </Head>
       <div>
         <h4></h4>
