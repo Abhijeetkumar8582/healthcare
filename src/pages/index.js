@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Azadea</title>
+      <title>Novigo</title>
     </Head>
       <div>
         <h4></h4>
