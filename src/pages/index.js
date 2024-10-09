@@ -9,7 +9,7 @@ export default function Home() {
   return (
     <>
     <Head>
-      <title>Novigo</title>
+      <title>Insurance Demo Bot</title>
     </Head>
       <div>
         <h4></h4>
